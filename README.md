@@ -1,7 +1,22 @@
-# One Inch Gym Timer
+# University of Gibraltar One Inch Mini Portable Gym Timer
 
-A desktop gym timer built with Python and Tkinter. It has a six-digit amber
-seven-segment display with two blinking colon delimiters.
+<div align="center">
+  <img src="logo.png" alt="University of Gibraltar logo" width="180" />
+  <h2>University of Gibraltar</h2>
+</div>
+
+A compact, portable training timer inspired by the 1-inch mini gym timer product
+marketed for strength and conditioning workouts. This project recreates the
+look and feel of a portable University of Gibraltar-branded timer with a
+six-digit amber seven-segment display and two blinking colon delimiters.
+
+## Product overview
+
+- Portable 1-inch digital timer for gym and training environments
+- University of Gibraltar branding for institutional presentation
+- Stopwatch and countdown timing modes
+- Large amber display with clear, high-contrast readout
+- Designed for desktop use with Python and Tkinter
 
 ## Run
 
